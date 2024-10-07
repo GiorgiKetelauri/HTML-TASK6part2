@@ -1,0 +1,121 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  width: 100vw;
+  height: 100vh;
+  background-color: #0d192c;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.container {
+  width: 350px;
+  height: 596px;
+  border-radius: 15px;
+  background-color: #15263f;
+  box-shadow: 0px 25px 50px 0px rgba(0, 0, 0, 0.1);
+  border-radius: 15px;
+}
+
+.FeradiSurati {
+  margin: 24px;
+  width: 302px;
+  height: 302px;
+}
+
+.text1 {
+  font-family: Outfit;
+  font-size: 22px;
+  font-weight: 600;
+  color: white;
+  width: 302px;
+  margin-left: 24px;
+  margin-bottom: 16px;
+}
+
+.text2 {
+  font-family: Outfit;
+  font-size: 18px;
+  font-weight: 300;
+  line-height: 26px;
+  color: #8bacd9;
+  margin-left: 24px;
+  margin-bottom: 24px;
+}
+
+.secondContainer {
+  display: flex;
+  flex-direction: row;
+}
+
+.etherium {
+  font-family: Outfit;
+  font-size: 16px;
+  font-weight: 600;
+  color: #00fff8;
+  margin-bottom: 24px;
+}
+
+.dedlain {
+  font-family: Outfit;
+  font-size: 16px;
+  font-weight: 400;
+  color: #8bacd9;
+}
+
+.sigrdze {
+  width: 110px;
+}
+
+.adgili {
+  margin-right: 6px;
+}
+
+.adgili1 {
+  margin-right: 3px;
+}
+
+.xazi {
+  width: 302px;
+  height: 1px;
+  background-color: #2e405a;
+  margin-left: 24px;
+}
+
+.lastDiv {
+  display: flex;
+  flex-direction: row;
+  margin-top: 22px;
+  margin-left: 24px;
+}
+
+.bolotexti {
+  color: #8bacd9;
+
+  font-family: Outfit;
+  font-size: 16px;
+  font-weight: 400;
+  margin-left: 16px;
+}
+
+.bolotexti1 {
+  color: white;
+  font-family: Outfit;
+  font-size: 16px;
+  font-weight: 400;
+  margin-left: 5px;
+}
+
+.ovala {
+  width: 33px;
+  height: 33px;
+  margin-top: -6px;
+
+  border-radius: 33px;
+  border: 1px solid var(--White, #fff);
+}
